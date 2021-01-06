@@ -61,7 +61,7 @@ function keyPressed() {
 								// fall only on press of the Down arrow key.
 								Matter
 												.Body
-												.setStatic(body, false);
+												.setStatic(packageBody, false);
 
 				}
 }
